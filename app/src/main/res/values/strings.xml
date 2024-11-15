@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FloatingBall</string>
+    <string name="start_floatingBall">开启悬浮球,获得全局控制功能。</string>
+</resources>
